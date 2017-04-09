@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">QuizzTest</string>
+    <string name="qchk1">Name 3 cities in Sibiu County</string>
+    <string name="chk11">Medias</string>
+    <string name="chk12">Agnita</string>
+    <string name="chk13">Lugoj</string>
+    <string name="chk14">Sebes</string>
+    <string name="chk15">Saliste</string>
+    <string name="display1">Choose</string>
+    <string name="q1">The 1st official record of Sibiu area was in:</string>
+    <string name="rq11">1191</string>
+    <string name="rq12">1492</string>
+    <string name="rq13">103</string>
+    <string name="rq14">1174</string>
+    <string name="q2">The mayor of Sibiu is</string>
+    <string name="rq21">Klaus Iohannis</string>
+    <string name="rq22">Petre Maior</string>
+    <string name="rq23">Varu Sandel</string>
+    <string name="rq24">Astrid Fodor</string>
+    <string name="q3">Podul minciunilor is</string>
+    <string name="rq31">A street in Sibiu</string>
+    <string name="rq32">A well known bridge in center of Sibiu</string>
+    <string name="rq33">A club</string>
+    <string name="rq34">Annual party taken in September</string>
+    <string name="q4">Sibiu in German is</string>
+    <string name="rq41">Kronstadt</string>
+    <string name="rq42">Hermannstadt</string>
+    <string name="rq43">Bundestadt</string>
+    <string name="rq44">Sibmeister</string>
+    <string name="q5">City of Sibiu was European Capital of Culture in:</string>
+    <string name="rq51">1996</string>
+    <string name="rq52">2015</string>
+    <string name="rq53">2007</string>
+    <string name="rq54">2000</string>
+    <string name="q6">Main religion in Sibiu is</string>
+    <string name="rq61">Muslim</string>
+    <string name="rq62">Orthodox</string>
+    <string name="rq63">Protestant</string>
+    <string name="rq64">Catholic</string>
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="name">Name</string>
+    <!--the final button that calculates the correct answers-->
+    <string name="submit">Submit</string>
+</resources>
